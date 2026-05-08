@@ -9,7 +9,7 @@ A web-based cheminformatics application that transforms SMILES strings into inte
 Designed for researchers and data scientists in the Drug Discovery and HealthTech space, this tool provides instant structural visualization and physicochemical property analysis.
 
 ## 🚀 Live Demo
-**[Click here to open the 3D Viewer](TU_URL_DE_STREAMLIT_AQUI)**
+**[Click here to open the 3D Viewer](https://3d-molecule-viewer.streamlit.app/)**
 
 ## ✨ Key Features
 - **SMILES to 3D Generation:** Automatically calculates 3D coordinates, adds hydrogens, and optimizes molecular geometry using MMFF (Merck Molecular Force Field).
